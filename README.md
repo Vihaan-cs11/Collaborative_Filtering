@@ -1,4 +1,3 @@
-machine_learning
 
 Preface
 In an era where information is abundant and easily accessible, the sheer volume of available literature can be overwhelming for readers seeking quality recommendations. Finding movies that align with a user's preferences often becomes a time-consuming task, especially with the limitations of current recommendation systems.
@@ -23,10 +22,3 @@ User-to-User CF: Identifies similar users by comparing their movie ratings and s
 Item-to-Item CF: Finds movies that are similar to the ones the user has already rated or watched and recommends them accordingly.
 
 Matrix Factorization: Uses a technique like SVD to decompose the user-movie rating matrix into latent features, enabling more accurate predictions of movie ratings based on past behaviors.
-
-Getting Started
-Prerequisites
-Python 3.x
-pandas, numpy, and scikit-learn libraries for data processing and collaborative filtering
-A dataset with user ratings (such as the MovieLens dataset)
-Installation
